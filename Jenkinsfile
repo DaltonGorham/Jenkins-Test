@@ -1,3 +1,3 @@
-@Library('Jenkins-Library') _
+@Library('Jenkins-Library@main') _
 
 testPipeline()
